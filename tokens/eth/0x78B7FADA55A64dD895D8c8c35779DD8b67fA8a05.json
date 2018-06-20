@@ -6,9 +6,9 @@
   "ens_address": "",
   "website": "https://atlant.io",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "https://atlant.io/promo/Atlant_custom_300x300_logo.png",
+    "width": "300",
+    "height": "300",
     "ipfs_hash": ""
   },
   "support": {
@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "blog": "https://blog.atlant.io/",
+    "chat": "https://t.me/atlant_eng",
+    "facebook": "https://business.facebook.com/atlantplatform/",
+    "forum": "https://bitcointalk.org/index.php?topic=2053239.0",
+    "github": "https://github.com/AtlantPlatform",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/atlant.io/",
+    "reddit": "https://www.reddit.com/r/atlantio/",
     "slack": "",
     "telegram": "https://t.me/atlant_eng",
     "twitter": "https://twitter.com/atlantio",
-    "youtube": ""
+    "youtube": "https://www.youtube.com/channel/UCOunbV9gX_aB43S6chXuirw"
   }
 }
